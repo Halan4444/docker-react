@@ -18,7 +18,7 @@ function App() {
           Learn React LanHaTranaaa
         </a>
         <p className="App-intro">
-          Hi There !
+          Hi There my friend !
         </p>
       </header>
     </div>
